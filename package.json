@@ -10,7 +10,14 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "misskey-js": "2024.8.0-alpha.0",
     "nuxt": "^3.12.4",
+    "nuxt-auth-utils": "^0.3.2",
+    "pkce-challenge": "^4.1.0",
+    "ufo": "^1.5.4",
     "vue": "latest"
+  },
+  "devDependencies": {
+    "@nuxt/kit": "^3.12.4"
   }
 }
