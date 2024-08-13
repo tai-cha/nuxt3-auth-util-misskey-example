@@ -3,7 +3,7 @@
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## About
-This repo is one of OAuth2 exapmle on Nuxt3 for Misskey
+This repo is one of OAuth2 example on Nuxt3 (with nuxt-auth-utils module) for Misskey
 
 ## Setup
 
